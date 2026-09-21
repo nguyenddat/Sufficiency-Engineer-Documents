@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "f26ab303a9a27cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "841190a3e6fd81e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b886534634276a69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "964e4eaddf7bd543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Phương pháp/Experiment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiment"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61fa28489f2892ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "90746888bd16d960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc5f130282d98252",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aa1a54ddbb97d216",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "379174f61c90a94c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2605f3863b38d0d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "821daf514964eb58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab474568ba1a54a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "24139ce8eb1279b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d364d764dd7e0bec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f48e9d6c797d5b20",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "37c14e0c2be094b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "964e4eaddf7bd543",
+  "lastOpenFiles": [
+    "02-Phương pháp/Cycle detection.md",
+    "02-Phương pháp/Experiment.md",
+    "01-Khái niệm/Dịch vụ và thiết bị.md",
+    "01-Khái niệm/Fact.md",
+    "01-Khái niệm/Activity.md",
+    "01-Khái niệm/Action.md",
+    "02-Phương pháp",
+    "01-Khái niệm",
+    "Experiment.md",
+    "Dịch vụ và thiết bị.md",
+    "Cycle detection.md",
+    "Fact.md",
+    "READ-ONLY/updated-v1.pptx",
+    "Activity.md",
+    "Action.md",
+    "AGENTS.md",
+    "Untitled",
+    "READ-ONLY/annotation-aid-system-contents/04-proposed-framework.md",
+    "READ-ONLY/annotation-aid-system-contents/05-experiment.md",
+    "READ-ONLY/annotation-aid-system-contents/03-problem-formulation.md",
+    "READ-ONLY/annotation-aid-system-contents/00-article-information.md",
+    "READ-ONLY/annotation-aid-system-contents/Annotation aid system index.md",
+    "READ-ONLY/annotation-aid-system-contents/07-references.md",
+    "READ-ONLY/annotation-aid-system-contents/06-conclusion.md",
+    "READ-ONLY/annotation-aid-system-contents/02-related-works.md",
+    "READ-ONLY/annotation-aid-system-contents/01-introduction.md",
+    "READ-ONLY/annotation-aid-system-contents",
+    "annotation-aid-system-contents/04-proposed-framework.md",
+    "annotation-aid-system-contents/03-problem-formulation.md",
+    "annotation-aid-system-contents/00-article-information.md",
+    "annotation-aid-system-contents/Annotation aid system index.md",
+    "annotation-aid-system-contents",
+    "_assets/annotation-aid-system/figure-09.png",
+    "_assets/annotation-aid-system/figure-02.png",
+    "_assets/annotation-aid-system/figure-12.png",
+    "_assets/annotation-aid-system/figure-11.png",
+    "_assets/annotation-aid-system/figure-10.png",
+    "_assets/annotation-aid-system/figure-08.png",
+    "_assets/annotation-aid-system/figure-07.png",
+    "_assets/annotation-aid-system/figure-06.png",
+    "_assets/annotation-aid-system/figure-05.png",
+    "_assets/annotation-aid-system/figure-04.png",
+    "_assets/annotation-aid-system",
+    "READ-ONLY/annotation-aid-system.pdf",
+    "READ-ONLY/France___Annotation_System.pdf",
+    "Research notes"
+  ]
+}
